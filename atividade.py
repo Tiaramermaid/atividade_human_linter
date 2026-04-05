@@ -1,5 +1,5 @@
 def somar_lista(lista):
-    soma=0
+    soma = 0
     for numero in lista:
-        soma = soma - numero
+        soma += numero
     return soma
